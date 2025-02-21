@@ -16,7 +16,7 @@ Infrastructure as Code (IaC) refers to the process of defining, provisioning, an
 - **Complex learning curve:** Requires knowledge of scripting, configuration management tools, and cloud services.
 - **Dependency management:** Changes in infrastructure may impact existing dependencies, requiring careful planning.
 
-## Popular IaC Tools & Platforms
+## Popular Tools & Platforms
 
 - **Terraform** – A widely used open-source tool by HashiCorp for declarative infrastructure provisioning.
 - **AWS CloudFormation** – A service by AWS for managing cloud resources using YAML or JSON templates.
