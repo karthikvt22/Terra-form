@@ -28,6 +28,4 @@ Infrastructure as Code (IaC) refers to the process of defining, provisioning, an
 - **Azure Resource Manager (ARM)** – Used to manage and provision Azure resources using declarative templates.
 - **SaltStack** – A remote execution and configuration management tool for large-scale deployments.
 
----
-
-Feel free to use or modify this for your GitHub repository! 🚀 Let me know if you need any changes.  
+---  
