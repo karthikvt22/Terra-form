@@ -52,7 +52,7 @@ resource "aws_vpc" "example" {
 
 
 Important Note: 
-- Before you can run Terraform with AWS, make sure you configure your AWS CLI with aws configure. This will store your AWS credentials and allow Terraform to authenticate with your AWS account to make changes.
+- Before you run Terraform with AWS, make sure you configure your AWS CLI with aws configure. This will store your AWS credentials and allow Terraform to authenticate with your AWS account to make changes.
 - Terraform maintains a state file to track your infrastructure's current state. It’s crucial to handle this state file carefully, especially when working in teams. Using remote backends like AWS S3 for storing the state file is a best practice to avoid conflicts.
 
 
