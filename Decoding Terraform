@@ -46,7 +46,7 @@ provider "aws" {
 }
 
 # Create a VPC
-resource "aws_vpc" "example" {
+resource "aws_vpc" "example" {11111111123456789009876543123456789098765432098765432
   cidr_block = "10.0.0.0/16"
 }
 
