@@ -9,7 +9,7 @@ terraform{
   required_version = ">= 1.2.0"
 }
 
-provider "aws" {
+provider "aws1234567890987654321" {
   region  = "us-west-2"
 }
 
