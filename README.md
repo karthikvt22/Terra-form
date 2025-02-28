@@ -3,7 +3,7 @@
 Infrastructure as Code (IaC) refers to the process of defining, provisioning, and managing infrastructure through code instead of using a traditional graphical user interface (GUI) or manual configurations. It allows automation of infrastructure setup, making deployments more efficient and consistent.
 
 ## Advantages of IaC
-iufx hieuhfiewuhfieuhf ef ieuhfief il fneilfheiurlf
+
 
 - **Time-efficient:** Reduces the time required for setting up infrastructure.
 - **Minimizes manual errors:** Since the setup is automated, human errors are significantly reduced.
